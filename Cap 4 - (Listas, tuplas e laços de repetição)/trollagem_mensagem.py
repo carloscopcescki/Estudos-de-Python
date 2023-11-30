@@ -10,4 +10,3 @@ for i in range (50):
     mensagem = random.choice(msg)
     py.write(mensagem)
     py.press("Enter")
-    
