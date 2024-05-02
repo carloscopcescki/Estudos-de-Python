@@ -21,7 +21,6 @@ raiz_delta = math.sqrt(delta)
 
 print(f"\nO valor de Δ é: {delta}")
 
-
 # Fórmula de Bhaskara
 # X = −b ± √​​Δ / 2a
 def formula_bhaskara_x1(b,a,raiz_delta):
