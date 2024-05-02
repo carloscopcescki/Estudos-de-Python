@@ -2,6 +2,7 @@ import math
 
 # Programa para calcular a equação de 2° grau utlizando a fórmula de Bhaskara
 print("Programa Equação 2° Grau")
+print("f(x) = ax² + bx + c = 0")
 
 # Exemplo de equação de 2° grau
 # X² - 5x + 6 = 0
