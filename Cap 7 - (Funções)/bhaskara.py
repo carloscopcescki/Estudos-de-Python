@@ -37,5 +37,3 @@ x2 = formula_bhaskara_x2(b,a,raiz_delta)
 
 print(f"\nO valor de X1 é: ", x1)
 print(f"\nO valor de X2 é: ", x2)
-   
-    
